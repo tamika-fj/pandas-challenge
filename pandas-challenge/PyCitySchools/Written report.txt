@@ -1,0 +1,24 @@
+#Looking at the data overall for all schools the average reading score and percentage passing reading (69.98 and 84.43%) was lower than 
+#the equivalent values for maths (70.34 and 86.08). This trend was summarised in the LGA table but also seen in top performing 
+#schools table where the passing maths percentages were higher than the reading values for all top 5 schools. The reading and maths 
+#scores by year level showed that the maths and reading scores were normally similar across all year levels for each school showing that 
+#averaging the scores all together in the other tables was not skewing the data.  
+
+#There was conflicting information about government vs independent schools. Whilst 4 of the 5 bottom performing schools were government 
+#schools, the third and fifth performing schools were also government schools. Also on the whole government schools had higher
+#levels of spending per student, with none being in the lowest spending bracket.
+
+#There was no correlation between spending per student and the percentage of students passing both in maths, 
+#reading and overall. This was demonstrated by the scores by school spending table which showed that on average 
+#schools that spent less than $585 dollars per student performed better in all 3 passing percentage variables than 
+#schools that spent $645-680 per student. This was further highlighted as the worst performing school, Hernandez High School 
+# was in the highest spending bracket, spending $652 per student. Additionally, while Griffin High was the top performing school 
+# and was in the top spending bracket, the second and fourth performing schools, Cabera and Wright High school were 
+# in the bottom spending bracket. 
+
+#There was a correlation between school size and passing scores. The smaller the size of the school the higher 
+#passing percentages for reading, maths and overall. This was shown in the scores by school graph, there was only a small 
+#differance (79.07 and 78.04) in overall passing between small and medium schools but large schools had an almost 8 percent 
+#decrease compared to medium sized schools in overall passing (70.29). Additionally, the worst performing school Hernandez High
+#school was the third largest school with 4635 students.
+
